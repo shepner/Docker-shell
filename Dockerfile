@@ -1,4 +1,4 @@
 FROM alpine:latest
 
-EXEC "/bin/bash"
+CMD "/bin/bash"
 
