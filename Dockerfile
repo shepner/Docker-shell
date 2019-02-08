@@ -1,4 +1,4 @@
 FROM alpine:latest
 
-CMD "/bin/sh"
+#CMD "/bin/sh"
 
